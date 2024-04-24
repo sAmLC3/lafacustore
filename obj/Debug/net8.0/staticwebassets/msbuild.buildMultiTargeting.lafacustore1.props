@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lafacustore1.props" />
+</Project>
