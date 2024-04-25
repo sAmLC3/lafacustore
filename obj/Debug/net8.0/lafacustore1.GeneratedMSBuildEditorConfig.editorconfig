@@ -18,6 +18,38 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\SAMANTHA\Desktop\prog1\lafacustore1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/lafacustore/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bGFmYWN1c3RvcmVcQXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/lafacustore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bGFmYWN1c3RvcmVcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/lafacustore/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bGFmYWN1c3RvcmVcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/lafacustore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bGFmYWN1c3RvcmVcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/lafacustore/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bGFmYWN1c3RvcmVcVmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/lafacustore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bGFmYWN1c3RvcmVcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/lafacustore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bGFmYWN1c3RvcmVcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/lafacustore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bGFmYWN1c3RvcmVcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -41,6 +73,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/lafacustore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bGFmYWN1c3RvcmVcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-74l5uh6094
 
 [C:/Users/SAMANTHA/Desktop/prog1/lafacustore1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
