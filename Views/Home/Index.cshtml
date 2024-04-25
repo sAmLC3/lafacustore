@@ -1,17 +1,61 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+@{
+    Layout = null; // Indica que este archivo no utiliza un diseño compartido
 }
+
+<!DOCTYPE html>
 <html lang="es">
-    <link rel="stylesheet" type="text/css" href="lafacu.css" />
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>La Facu</title>
-    
+    <title>Tienda Online</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #8C52FF;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #6633cc;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+        }
+        nav a:hover {
+            background-color: #6e00ff;
+        }
+        .container {
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #8C52FF;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <h1>La Facu</h1>
+        <h1>Tienda Online</h1>
     </header>
     <nav>
         <a href="#">Inicio</a>
@@ -22,31 +66,21 @@
     <div class="container">
         <h2>Productos Destacados</h2>
         <div class="product">
-            <img src="galery/cartuchera_doble.jpg" alt="Cartucheras Dobles" width="190" height="190" >
-            <h3>Cartucheras dobles</h3>
-            <p>cartucheras de dos pisos para niños, incluye la tabla de multiplicar</p>
+            <img src="producto1.jpg" alt="Producto 1">
+            <h3>Nombre del Producto 1</h3>
+            <p>Descripción corta del Producto 1.</p>
             <button>Añadir al Carrito</button>
         </div>
         <div class="product">
-            <img src="galery/juego_de_pinza.jpg" alt="Juego de pinza" width="190" height="190" >
-            <h3>Juego de pinza</h3>
-            <p>Tipo de pinzas para pestañas: tipo ESD, tipo NH, tipo ST, tipo N</p>
-            <button>Añadir al Carrito</button>
-        </div>
-        <div class="product">
-            <img src="galery/papel_bond.jpg" alt="Papel Bond" width="190" height="190" >
-            <h3>Papel bond</h3>
-            <p>Paquete de papel 75 gr de hojas bond</p>
-            <button>Añadir al Carrito</button>
-        </div>
-        <div class="product">
-            <img src="galery/led_usb.jpg" alt="Led USB" width="190" height="190" >
-            <h3>Led USB</h3>
-            <p>Lámpara para laptop con conexión USB</p>
+            <img src="producto2.jpg" alt="Producto 2">
+            <h3>Nombre del Producto 2</h3>
+            <p>Descripción corta del Producto 2.</p>
             <button>Añadir al Carrito</button>
         </div>
         <!-- Más productos aquí -->
     </div>
-    
+    <footer>
+        &copy; @DateTime.Now.Year Tienda Online. Todos los derechos reservados.
+    </footer>
 </body>
 </html>
