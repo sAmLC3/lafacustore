@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lafacustore1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca947c814d406ec6bf6c72750aefd8fb045e5192")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98187bb4d9f3152ba2defc8e37b6e1a3674bc1a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("lafacustore1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lafacustore1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
