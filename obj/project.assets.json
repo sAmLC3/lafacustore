@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SAMANTHA\\.nuget\\packages\\": {}
+    "C:\\Users\\mayron\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SAMANTHA\\Desktop\\prog1\\lafacustore1\\lafacustore1.csproj",
+      "projectUniqueName": "D:\\universidad\\program 1\\programas\\trabajo grupal\\lafacustore1\\lafacustore1.csproj",
       "projectName": "lafacustore1",
-      "projectPath": "C:\\Users\\SAMANTHA\\Desktop\\prog1\\lafacustore1\\lafacustore1.csproj",
-      "packagesPath": "C:\\Users\\SAMANTHA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SAMANTHA\\Desktop\\prog1\\lafacustore1\\obj\\",
+      "projectPath": "D:\\universidad\\program 1\\programas\\trabajo grupal\\lafacustore1\\lafacustore1.csproj",
+      "packagesPath": "C:\\Users\\mayron\\.nuget\\packages\\",
+      "outputPath": "D:\\universidad\\program 1\\programas\\trabajo grupal\\lafacustore1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SAMANTHA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mayron\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

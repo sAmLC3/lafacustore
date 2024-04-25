@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lafacustore1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b61adc01d0c1a1063b9ef699aa10632e7b4b807")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b38a43d701065a9b1297150698320f63731c686")]
 [assembly: System.Reflection.AssemblyProductAttribute("lafacustore1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lafacustore1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
