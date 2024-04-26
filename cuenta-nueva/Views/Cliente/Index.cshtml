@@ -1,0 +1,48 @@
+@model mymovieapp.Models.Cliente
+@{
+    ViewData["Title"] = "Cliente";
+}
+<div class="container">
+    <h1 class="text-center mb-4">@ViewData["Title"]</h1>
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-controller="Cliente" asp-action="Create" method="post">
+                <div class="form-group">
+                    <label asp-for="Nombre" class="control-label"></label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Apellido" class="control-label"></label>
+                    <input asp-for="Apellido" class="form-control" />
+                    <span asp-validation-for="Apellido" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Telefono" class="control-label"></label>
+                    <input asp-for="Telefono" class="form-control" />
+                    <span asp-validation-for="Telefono" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CorreoElectronico" class="control-label"></label>
+                    <input asp-for="CorreoElectronico" class="form-control" />
+                    <span asp-validation-for="CorreoElectronico" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FechaNacimiento" class="control-label"></label>
+                    <input asp-for="FechaNacimiento" class="form-control" />
+                </div>
+                <div class="form-group text-center">
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </div>
+            </form>
+             <h1>@ViewData["Message"]</h1>
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
